@@ -1,6 +1,6 @@
 # Enterprise Network Automation with Python & Netmiko
 
-![Network Topology](Topology.jpg)
+![Network Topology](Topology.JPG)
 
 ## Project Overview
 This repository contains an end-to-end network automation project developed to configure and manage a complex Cisco enterprise network environment simulated in GNS3. The core of this project is a robust, Object-Oriented Python script (`ConfigureNetwork.py`) utilizing the `netmiko` library to push configurations to multiple routing and switching devices dynamically. 
